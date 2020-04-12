@@ -14,7 +14,7 @@ import static android.provider.AlarmClock.EXTRA_MESSAGE;
 
 public class SettingsActivity extends AppCompatActivity {
 
-    private String[] data = {"one", "two", "three", "four", "five"};
+    private String[] data = {"City one", "City two", "City three", "City four", "City five"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
