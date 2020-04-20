@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TelegaBot</string>
+    <string name="button">Settings</string>
+    <string name="city">Moscow</string>
+    <string name="send">Send Telegram</string>
+    <string name="info">Info</string>
+    <string name="url_telegram">https://tlgrm.ru/docs/bots/api</string>
+</resources>
